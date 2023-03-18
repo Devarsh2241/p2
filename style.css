@@ -1,0 +1,130 @@
+* {
+    margin: 0%;
+    padding: 0%;
+
+}
+
+body {
+    background-color:none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.top {
+    border-bottom: 2px solid black;
+    border: 1px solid black;
+    font-size: x-large;
+
+}
+
+
+h1 {
+    text-align: center;
+    color: navy;
+    margin-top: 10px;
+}
+
+
+main {
+    border: 2px;
+    margin-left: 10px;
+    margin-right: 10px;
+    min-height: calc(100vh - 10vh - 10vh);
+}
+
+.nav {
+    list-style: none;
+    display: flex;
+   text-align: center;
+    border: 2px black solid;
+    margin-top: 10px;
+
+}
+
+.nav a {
+    color: chocolate;
+    display: flex;
+    font-size: large;
+    text-decoration: none;
+    margin: 10px;
+  margin-left: 200px;
+  font-weight: bolder;
+}
+
+.practical {
+    margin-top: 10px;
+    list-style: none;
+    border: 2px black solid;
+    float: left;
+    font-size:x-large;
+    align-content: space-between;
+  
+}
+
+.practical a {
+    text-decoration: none;
+}
+
+.article {
+    margin-top: 10px;
+    margin-left: 12%;
+   
+    width: 1316px;
+    height:450px;
+    
+}
+
+
+
+footer {
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+    height: 10vh;
+}
+
+.footer p {
+    border: 2px solid black;
+}
+/*.box-bor{
+    background-color: rgb(50,80,2);
+    color: white;
+    width: 750px;
+    text-align: center;
+    margin-left: 330px;
+    margin-bottom: 20px;
+    height: 75px;
+}*/
+.box-bor{
+    background-color: lightgreen;
+}   
+.toll{
+    margin:10px 5px 15px 10px;
+    color: black;
+    
+}
+.box-bor1{
+    background-color: lightgreen;
+   
+}  
+.logo{
+    height: 20px;
+    width: 30px;
+    margin-left: 20px;
+    margin-top: 5px;
+}
+.aim{
+    width: auto;
+    height:50px;
+    border: 1px solid black;
+    margin-top: 10px;
+   margin: 1% 2% 1% 2% ;
+   text-align: center;
+   font-size: x-large;
+}
+.tbl-head{
+    background-color: greenyellow;
+   
+}
+.bad-bg{
+    background-color:coral;
+}
